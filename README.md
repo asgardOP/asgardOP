@@ -4,21 +4,25 @@
 - 🌍 From Basra, Iraq  
 - 🎓 Future IT-Ausbildung applicant in Germany  
 - 💡 Passionate about **IoT, AI, and Web Development**  
-- 🧠 Experienced in **Python, PHP, HTML/CSS/JS, and Arduino/Raspberry Pi**  
+- 🧠 Experienced in **Python, PHP, HTML/CSS/JS, SQL, and Arduino/Raspberry Pi**  
 - 🌱 Currently improving my **German (A2-B1)** and building tech projects  
 
 ---
 
 🚀 **My Projects**
-- 🧾 [AI Attendance System](https://github.com/yourusername/AI-Attendance-System) — Raspberry Pi + Flask + SQLite  
-- 🤖 [Smart Servo Sensor Device](https://github.com/yourusername/IR-Servo-Project) — Arduino + IR Sensor  
-- 🌐 [FollowMe](https://github.com/yourusername/FollowMe) — Social photo sharing platform in PHP/MySQL  
+- 🧾 [AI Attendance System](https://github.com/yourusername/Smart-RFID-Attendance-System) — Raspberry Pi + Arduino + Python + SQLite 
+- 🌐 [FollowMe](https://github.com/yourusername/FollowMe) — Social photo sharing platform in PHP/MySQL   
+- 🌐 [SQL DB Manager](https://github.com/yourusername/SQLite-DB_Manager) — Databases Control From Terminal
+- 🌐 [Cars Price Ai](https://github.com/yourusername/Car-Price-Prediction-Ai) — Simple Ai With UI To Predicit Cars Price
+- 🌐 [Wifi Manager](https://github.com/yourusername/Car-Price-Prediction-Ai) — Tool To Manager Your Wifi
 
+And More...!
+  
 ---
 
 📈 **Languages & Tools**
 <p>
-<img src="https://skillicons.dev/icons?i=python,php,html,css,js,flask,sqlite,raspberrypi,arduino,git,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=python,php,html,css,js,flask,sqlite,raspberrypi,arduino,git,vscode,photoshop"/>
 </p>
 
 ---
