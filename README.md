@@ -12,8 +12,8 @@
  **My Projects**
 - 🧾 [Attendance System](https://github.com/asgardOP/Smart-RFID-Attendance-System) — Raspberry Pi + Arduino + Python + SQLite 
 - 🌐 [FollowMe](https://github.com/asgardOP/FollowMe) — Social photo sharing platform in PHP/MySQL   
-- 🌐 [SQL DB Manager](https://github.com/asgardOP/SQLite-DB-Manager) — Databases Control From Terminal
-- 🌐 [Cars Price Ai](https://github.com/asgardOP/Car-Price-Prediction-Ai) — Simple Ai With UI To Predicit Cars Price
+- 🗂️ [SQL DB Manager](https://github.com/asgardOP/SQLite-DB-Manager) — Databases Control From Terminal
+- 🤖 [Cars Price Ai](https://github.com/asgardOP/Car-Price-Prediction-Ai) — Simple Ai With UI To Predicit Cars Price
 - 🌐 [Wifi Manager](https://github.com/asgardOP/WiFi-Manager) — Tool To Manager Your Wifi
 
 And More...!
