@@ -6,7 +6,7 @@
 - 💡 Passionate about **IoT, AI, and Web Development**  
 - 🧠 Experienced in **Python, PHP, HTML/CSS/JS, SQL, and Arduino/Raspberry Pi**  
 - 🌱 Currently improving my **German (A2-B1)** and building tech projects  
-
+- ⚜️ Experince in Graphic Design and 3D Modeling using Photoshop and Blender 
 ---
 
 🚀 **My Projects**
