@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ali Emad
 
-## **About Me**
+ **About Me**
 - 🌍 From Basra, Iraq  
 - 🎓 Future IT-Ausbildung applicant in Germany  
 - 💡 Passionate about **IoT, AI, and Web Development**  
@@ -9,7 +9,7 @@
 - ⚜️ Experince in Graphic Design and 3D Modeling using Photoshop and Blender 
 ---
 
-## **My Projects**
+ **My Projects**
 - 🧾 [Attendance System](https://github.com/asgardOP/Smart-RFID-Attendance-System) — Raspberry Pi + Arduino + Python + SQLite 
 - 🌐 [FollowMe](https://github.com/asgardOP/FollowMe) — Social photo sharing platform in PHP/MySQL   
 - 🌐 [SQL DB Manager](https://github.com/asgardOP/SQLite-DB_Manager) — Databases Control From Terminal
