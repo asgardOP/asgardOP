@@ -22,7 +22,7 @@ And More...!
 
 📈 **Languages & Tools**
 <p>
-<img src="https://skillicons.dev/icons?i=python,php,html,css,js,flask,sqlite,raspberrypi,arduino,git,vscode,photoshop"/>
+<img src="https://skillicons.dev/icons?i=python,php,html,css,js,flask,sqlite,raspberrypi,arduino,git,vscode,photoshop,blender"/>
 </p>
 
 ---
