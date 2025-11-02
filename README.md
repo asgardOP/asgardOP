@@ -10,11 +10,11 @@
 ---
 
 🚀 **My Projects**
-- 🧾 [AI Attendance System](https://github.com/yourusername/Smart-RFID-Attendance-System) — Raspberry Pi + Arduino + Python + SQLite 
-- 🌐 [FollowMe](https://github.com/yourusername/FollowMe) — Social photo sharing platform in PHP/MySQL   
-- 🌐 [SQL DB Manager](https://github.com/yourusername/SQLite-DB_Manager) — Databases Control From Terminal
-- 🌐 [Cars Price Ai](https://github.com/yourusername/Car-Price-Prediction-Ai) — Simple Ai With UI To Predicit Cars Price
-- 🌐 [Wifi Manager](https://github.com/yourusername/Car-Price-Prediction-Ai) — Tool To Manager Your Wifi
+- 🧾 [AI Attendance System](https://github.com/asgardOP/Smart-RFID-Attendance-System) — Raspberry Pi + Arduino + Python + SQLite 
+- 🌐 [FollowMe](https://github.com/asgardOP/FollowMe) — Social photo sharing platform in PHP/MySQL   
+- 🌐 [SQL DB Manager](https://github.com/asgardOP/SQLite-DB_Manager) — Databases Control From Terminal
+- 🌐 [Cars Price Ai](https://github.com/asgardOP/Car-Price-Prediction-Ai) — Simple Ai With UI To Predicit Cars Price
+- 🌐 [Wifi Manager](https://github.com/asgardOP/Car-Price-Prediction-Ai) — Tool To Manager Your Wifi
 
 And More...!
   
@@ -28,8 +28,7 @@ And More...!
 ---
 
 📫 **Contact Me**
-- 💌 Email: [your-email@example.com](mailto:your-email@example.com)  
-- 🧑‍💼 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)  
+- 💌 Email: [your-email@example.com](mailto:aayth8700@gmail.com)  
 - 🌍 Portfolio: [your-website.com](https://your-website.com)
 
 ---
